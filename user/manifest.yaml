@@ -33,7 +33,7 @@ spec:
         project: roboshop
         component: user
         tier: backend
-    spec:
+  spec:
       containers:
       - name: user
         image: joindevops/user:v1
