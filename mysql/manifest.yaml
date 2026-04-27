@@ -33,7 +33,7 @@ spec:
         project: roboshop
         component: mysql
         tier: db
-    spec:
+  spec:
       containers:
       - name: mysql
         image: joindevops/mysql:v1
