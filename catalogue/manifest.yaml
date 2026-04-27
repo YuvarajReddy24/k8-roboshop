@@ -32,7 +32,7 @@ spec:
         project: roboshop
         component: catalogue
         tier: backend
-    spec:
+  spec:
       containers:
       - name: catalogue
         image: joindevops/catalogue:v1

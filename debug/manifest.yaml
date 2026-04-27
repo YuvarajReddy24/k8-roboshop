@@ -6,8 +6,8 @@ metadata:
   labels:
     name: debug
     project: roboshop
-spec:
-  containers:
-  - name: debug
-    image: yuvarajreddy24/debug:v1
-    imagePullPolicy: Always
+  spec:
+   containers:
+   - name: debug
+     image: yuvarajreddy24/debug:v1
+     imagePullPolicy: Always
